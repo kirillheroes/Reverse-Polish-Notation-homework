@@ -1,0 +1,11 @@
+C:\Users\пользователь\source\repos\Reverse Polish Notation\Reverse Polish Notation\bin\Debug\netcoreapp2.1\Reverse Polish Notation.deps.json
+C:\Users\пользователь\source\repos\Reverse Polish Notation\Reverse Polish Notation\bin\Debug\netcoreapp2.1\Reverse Polish Notation.runtimeconfig.json
+C:\Users\пользователь\source\repos\Reverse Polish Notation\Reverse Polish Notation\bin\Debug\netcoreapp2.1\Reverse Polish Notation.runtimeconfig.dev.json
+C:\Users\пользователь\source\repos\Reverse Polish Notation\Reverse Polish Notation\bin\Debug\netcoreapp2.1\Reverse Polish Notation.dll
+C:\Users\пользователь\source\repos\Reverse Polish Notation\Reverse Polish Notation\bin\Debug\netcoreapp2.1\Reverse Polish Notation.pdb
+C:\Users\пользователь\source\repos\Reverse Polish Notation\Reverse Polish Notation\obj\Debug\netcoreapp2.1\Reverse Polish Notation.csprojAssemblyReference.cache
+C:\Users\пользователь\source\repos\Reverse Polish Notation\Reverse Polish Notation\obj\Debug\netcoreapp2.1\Reverse Polish Notation.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\source\repos\Reverse Polish Notation\Reverse Polish Notation\obj\Debug\netcoreapp2.1\Reverse Polish Notation.AssemblyInfoInputs.cache
+C:\Users\пользователь\source\repos\Reverse Polish Notation\Reverse Polish Notation\obj\Debug\netcoreapp2.1\Reverse Polish Notation.AssemblyInfo.cs
+C:\Users\пользователь\source\repos\Reverse Polish Notation\Reverse Polish Notation\obj\Debug\netcoreapp2.1\Reverse Polish Notation.dll
+C:\Users\пользователь\source\repos\Reverse Polish Notation\Reverse Polish Notation\obj\Debug\netcoreapp2.1\Reverse Polish Notation.pdb
